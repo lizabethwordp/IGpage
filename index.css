@@ -40,6 +40,16 @@ div p{
     font-weight: 600;
     text-align: right;
 }
-.firstline{
+.content1 img{
+    margin-left: 8rem;
+    margin-right: 0.7rem;
+}
+.first_line{
     display: flex;
+}
+.first_line img{
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+    /* margin-left: 1rem; */
 }
