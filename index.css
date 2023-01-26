@@ -20,7 +20,7 @@
     height: 1.7rem;
     border-radius: 2rem;
     border: none;
-    background-color: rgb(199, 199, 201);
+    background-color: rgba(230, 230, 231, 0.39);
     margin-left: 0.55rem;
 }
 .arrow{
@@ -42,14 +42,27 @@ div p{
 }
 .content1 img{
     margin-left: 8rem;
-    margin-right: 0.7rem;
 }
 .first_line{
     display: flex;
+    margin-right: 5rem;
+    margin-top: 1rem;
 }
 .first_line img{
     border-radius: 50%;
     height: 3rem;
     width: 3rem;
-    /* margin-left: 1rem; */
+    margin-right: 1rem;
+}
+.text{
+    margin-right: 4rem;
+}
+.text h3{
+    line-height: 0.02;
+}
+.text h4{
+    color: rgb(93, 93, 93);
+}
+.second_line h3{
+    color: rgb(139, 138, 138);
 }
